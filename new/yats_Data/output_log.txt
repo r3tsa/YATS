@@ -1,0 +1,34 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 9.18.13.3788]
+    Renderer: NVIDIA GeForce G210M    
+    Vendor:   NVIDIA
+    VRAM:     1360 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 9.18.13.3788]
+    Renderer: NVIDIA GeForce G210M    
+    Vendor:   NVIDIA
+    VRAM:     1360 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\!Unity\Unity Projects\YATS\new\yats_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\!Unity\Unity Projects\YATS\new\yats_Data\Managed\UnityEngine.dll into Unity Child Domain
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\!Unity\Unity Projects\YATS\new\yats_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\!Unity\Unity Projects\YATS\new\yats_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\!Unity\Unity Projects\YATS\new\yats_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\!Unity\Unity Projects\YATS\new\yats_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.069 seconds
+Platform assembly: C:\!Unity\Unity Projects\YATS\new\yats_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\!Unity\Unity Projects\YATS\new\yats_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+desktop: 1366x768 60Hz; v-rtual: 1366x768 aet 0d 0
+eload, in  0.071 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initializing input.
+<RI> Input initialized.

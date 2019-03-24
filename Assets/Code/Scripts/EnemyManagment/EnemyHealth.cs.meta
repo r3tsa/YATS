@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7cacdb9559ec0ae4c82663c796259b3c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosionParticle: {instanceID: 0}
+  - explosionSound: {fileID: 8300000, guid: 4a46782b6a4544fa089a35523f50e2a0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

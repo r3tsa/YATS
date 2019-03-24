@@ -1,0 +1,39 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dumx.dll 9.18.13.3788]
+    Renderer: NVIDIA GeForce G210M    
+    Vendor:   NVIDIA
+    VRAM:     1360 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\!Unity\Unity Projects\YATS\2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\!Unity\Unity Projects\YATS\2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\!Unity\Unity Projects\YATS\2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\!Unity\Unity Projects\YATS\2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\!Unity\Unity Projects\YATS\2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\!Unity\Unity Projects\YATS\2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\!Unity\Unity Projects\YATS\2_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\!Unity\Unity Projects\YATS\2_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.100 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.053466 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 353.
+Total: 1.470110 ms (FindLiveObjects: 0.023525 ms CreateObjectMapping: 0.016681 ms MarkObjects: 0.214293 ms  DeleteObjects: 0.356299 ms)
+
+UnloadTime: 6.798353 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 323.
+Total: 2.594187 ms (FindLiveObjects: 0.018392 ms CreateObjectMapping: 0.017536 ms MarkObjects: 0.229691 ms  DeleteObjects: 1.612545 ms)
+
+UnloadTime: 0.439279 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 0.961966 ms (FindLiveObjects: 0.020958 ms CreateObjectMapping: 0.027374 ms MarkObjects: 0.204027 ms  DeleteObjects: 0.079130 ms)
+

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 2728f1eb7c34a6d428dc5cf753ab5534
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - projectilePrefab: {instanceID: 0}
+  - shootSpawnPos: {instanceID: 0}
+  - shotSound: {fileID: 8300000, guid: 3db24c13c8559954a92163729bacf691, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
